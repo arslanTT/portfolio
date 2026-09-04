@@ -7,13 +7,13 @@ export default function Footer() {
         </p>
         <div className="flex gap-4 text-sm text-gray-500">
           <a
-            href="mailto:your.email@example.com"
+            href="arslanwebdevv@gmail.com"
             className="hover:text-black transition-colors"
           >
             Email
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/arslanTT"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-black transition-colors"

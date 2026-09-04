@@ -1,11 +1,11 @@
 const CONTACT_LINKS = [
   {
     label: "Email",
-    href: "arslan.acc112@gmail.com",
+    href: "arslanwebdevv@gmail.com",
   },
   {
     label: "GitHub",
-    href: "https://github.com/yourusername",
+    href: "https://github.com/arslanTT",
   },
   {
     label: "LinkedIn",
