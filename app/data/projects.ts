@@ -16,7 +16,7 @@ export const projects: Project[] = [
       "Users upload a website design image, which is sent to an AI model for critique. The critique is saved and posted publicly along with the image, where other users can comment and give suggestions.",
     images: ["/projects/p3-1.png", "/projects/p3-2.png", "/projects/p3-3.png"],
     tags: ["React", "Express", "Node.js", "MongoDB", "AI API"],
-    liveUrl: "ai-design-review-frontend.vercel.app",
+    liveUrl: "https://ai-design-review-frontend.vercel.app",
     githubUrl: "https://github.com/arslanTT/AI-Design-Review-Frontend.git",
   },
   {
@@ -36,7 +36,7 @@ export const projects: Project[] = [
       "An app with authentication and authorization where users can upload images and PDFs to cloud storage and download them later.",
     images: ["/projects/p2-1.png", "/projects/p2-2.png", "/projects/p2-3.png"],
     tags: ["Next.js", "TypeScript", "ImageKit", "Cloud Storage"],
-    liveUrl: "cloudnext-eight.vercel.app",
+    liveUrl: "https://cloudnext-eight.vercel.app",
     githubUrl: "https://github.com/arslanTT/drop.git",
   },
 ];
