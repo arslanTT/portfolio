@@ -20,6 +20,16 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/arslanTT/AI-Design-Review-Frontend.git",
   },
   {
+  id: "aeterna",
+  title: "AETERNA — Luxury Watch Showcase",
+  description:
+    "A cinematic single-page 3D experience showcasing a luxury watch. Users scroll through five scenes — assembly, exploded exploration, movement anatomy, real-time customization, and a cart animation — with smooth scroll-driven interactions and Web Audio sound design.",
+  images: ["/projects/aeterna-1.png", "/projects/aeterna-2.png", "/projects/aeterna-3.png"],
+  tags: ["Next.js", "TypeScript", "React Three Fiber", "Three.js", "GSAP", "Zustand"],
+  liveUrl: "https://aeterna-xi.vercel.app/",
+  githubUrl: "https://github.com/arslanTT/portfolio.git",
+},
+  {
     id: "video-streaming",
     title: "Video Streaming Platform",
     description:
