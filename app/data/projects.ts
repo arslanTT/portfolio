@@ -26,7 +26,7 @@ export const projects: Project[] = [
       "A video platform with authentication and authorization. Users can upload their own videos within set limits, and stream videos uploaded by themselves or other users.",
     images: ["/projects/p1-1.png", "/projects/p1-2.png", "/projects/p1-3.png"],
     tags: ["Next.js", "TypeScript", "MongoDB", "Auth"],
-    liveUrl: "videos-five-plum.vercel.app",
+    liveUrl: "https://videos-five-plum.vercel.app",
     githubUrl: "https://github.com/arslanTT/videos.git",
   },
   {
